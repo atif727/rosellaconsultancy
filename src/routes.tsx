@@ -12,10 +12,12 @@ import Login from "./pages/authentication/login";
 import LabourVisa from "./pages/services/LabourVisa";
 import StudentVisa from "./pages/services/StudentVisa";
 import TouristVisa from "./pages/services/TouristVisa";
+import NotFound from "./pages/notfound";
 
 const router = createBrowserRouter([
   {
     path: "/",
+    errorElement: <NotFound />,
     element: <App />,
     children: [
       {
