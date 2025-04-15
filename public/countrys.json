@@ -1,0 +1,159 @@
+{
+  "countries": [
+    {
+      "name": "Lithuania",
+      "flagCode": "lt",
+      "studentVisa": {
+        "availableCourses": [
+          "Computer Science",
+          "Business Management",
+          "Mechanical Engineering"
+        ],
+        "courseDuration": "4 years",
+        "visaDuration": "1 month"
+      },
+      "touristVisa": {
+        "placesToVisit": ["Vilnius Old Town", "Trakai Castle", "Curonian Spit"],
+        "visaDuration": "1-2 months",
+        "description": "Lithuania is known for its beautiful landscapes and medieval architecture."
+      },
+      "laborVisa": {
+        "visaDuration": "3-4 months",
+        "monthlySalary": "700-800 EUR",
+        "monthlySalaryBDT": "1,20,000 BDT",
+        "potentialSpending": "3-4 lakh BDT",
+        "availableJobs": ["Welder", "Knitting", "Electrician"]
+      }
+    },
+    {
+      "name": "Belarus",
+      "flagCode": "by",
+      "studentVisa": {
+        "availableCourses": ["Medicine", "Information Technology", "Economics"],
+        "courseDuration": "4 years",
+        "visaDuration": "1 month"
+      },
+      "touristVisa": {
+        "placesToVisit": ["Minsk", "Brest Fortress", "Mir Castle"],
+        "visaDuration": "1-2 months",
+        "description": "Belarus offers rich history, Soviet-era architecture, and vast natural beauty."
+      },
+      "laborVisa": {
+        "visaDuration": "3-4 months",
+        "monthlySalary": "700-800 EUR",
+        "monthlySalaryBDT": "1,20,000 BDT",
+        "potentialSpending": "3-4 lakh BDT",
+        "availableJobs": ["Welder", "Knitting", "Electrician"]
+      }
+    },
+    {
+      "name": "Russia",
+      "flagCode": "ru",
+      "studentVisa": {
+        "availableCourses": ["Engineering", "Philosophy", "Physics"],
+        "courseDuration": "4 years",
+        "visaDuration": "1 month"
+      },
+      "touristVisa": {
+        "placesToVisit": ["Moscow", "Saint Petersburg", "Lake Baikal"],
+        "visaDuration": "1-2 months",
+        "description": "Russia is famous for its rich cultural heritage, vast landscapes, and historical cities."
+      },
+      "laborVisa": {
+        "visaDuration": "3-4 months",
+        "monthlySalary": "700-800 EUR",
+        "monthlySalaryBDT": "1,20,000 BDT",
+        "potentialSpending": "3-4 lakh BDT",
+        "availableJobs": ["Welder", "Knitting", "Electrician"]
+      }
+    },
+    {
+      "name": "Italy",
+      "flagCode": "it",
+      "studentVisa": {
+        "availableCourses": ["Fashion Design", "Architecture", "Art History"],
+        "courseDuration": "4 years",
+        "visaDuration": "1 month"
+      },
+      "touristVisa": {
+        "placesToVisit": ["Rome", "Venice", "Florence"],
+        "visaDuration": "1-2 months",
+        "description": "Italy is a top destination for art, history, cuisine, and romantic landscapes."
+      },
+      "laborVisa": {
+        "visaDuration": "3-4 months",
+        "monthlySalary": "700-800 EUR",
+        "monthlySalaryBDT": "1,20,000 BDT",
+        "potentialSpending": "3-4 lakh BDT",
+        "availableJobs": ["Welder", "Knitting", "Electrician"]
+      }
+    },
+    {
+      "name": "Dubai",
+      "flagCode": "ae",
+      "studentVisa": {
+        "availableCourses": [
+          "Business Administration",
+          "Tourism Management",
+          "Software Engineering"
+        ],
+        "courseDuration": "4 years",
+        "visaDuration": "1 month"
+      },
+      "touristVisa": {
+        "placesToVisit": ["Burj Khalifa", "Palm Jumeirah", "Dubai Mall"],
+        "visaDuration": "1-2 months",
+        "description": "Dubai is known for luxury shopping, modern architecture, and vibrant nightlife."
+      },
+      "laborVisa": {
+        "visaDuration": "3-4 months",
+        "monthlySalary": "700-800 EUR",
+        "monthlySalaryBDT": "1,20,000 BDT",
+        "potentialSpending": "3-4 lakh BDT",
+        "availableJobs": ["Welder", "Knitting", "Electrician"]
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "flagCode": "bg",
+      "studentVisa": {
+        "availableCourses": ["Nursing", "Computer Engineering", "Law"],
+        "courseDuration": "4 years",
+        "visaDuration": "1 month"
+      },
+      "touristVisa": {
+        "placesToVisit": ["Sofia", "Plovdiv", "Rila Monastery"],
+        "visaDuration": "1-2 months",
+        "description": "Bulgaria is rich in culture, natural beauty, and ancient landmarks."
+      },
+      "laborVisa": {
+        "visaDuration": "3-4 months",
+        "monthlySalary": "700-800 EUR",
+        "monthlySalaryBDT": "1,20,000 BDT",
+        "potentialSpending": "3-4 lakh BDT",
+        "availableJobs": ["Welder", "Knitting", "Electrician"]
+      }
+    },
+    {
+      "name": "Malaysia",
+      "flagCode": "my",
+      "studentVisa": {
+        "availableCourses": ["Hospitality", "Information Systems", "Marketing"],
+        "courseDuration": "4 years",
+        "visaDuration": "1 month"
+      },
+      "touristVisa": {
+        "placesToVisit": ["Kuala Lumpur", "Langkawi", "Penang"],
+        "visaDuration": "1-2 months",
+        "description": "Malaysia offers a unique mix of modern life, nature, and multicultural heritage."
+      },
+      "laborVisa": {
+        "visaDuration": "3-4 months",
+        "monthlySalary": "700-800 EUR",
+        "monthlySalaryBDT": "1,20,000 BDT",
+        "potentialSpending": "3-4 lakh BDT",
+        "availableJobs": ["Welder", "Knitting", "Electrician"]
+      }
+    }
+  ]
+}
